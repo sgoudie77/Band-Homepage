@@ -1,21 +1,22 @@
-# Project Name:  
+# Band Homepage
 
-Band Homepage
+#### Description:
 
-#### Description:  
+This is a basic homepage with a JavaScript menu toggle.
 
-This is basic homepage with JavaScript menu toggle. 
+#### Built With:
 
-#### Built With:  
+- HTML5
+- CSS3
+- JavaScript
 
-    - HTML5  
-    - CSS3
-    - JavaScript  
+#### Getting Started:
 
-#### Usage:  
+1. Clone this repo to your computer.
+2. Unzip the file into a new folder.
+3. To change to the menu items, open the index.html file and rename the links in lines 21-27.
+4. To change the background color of the menu, open the style.css file and change background: _grey_ on line 29 to a different color.
 
-This project could be used and expanded for any homepage changing the images accordingly, and the project can be expanded to include additional pages for each band member and other pages listed in the menu toggle. To use this project locally, users can copy the files into its own folder. 
+#### Acknowledgements:
 
-#### Acknowledgements:  
-
-The code for the homepage of this project was inspired by a YouTube tutorial for a tourism site, and the JavaScript and CSS code for the menu toggle was adapted from a tutorial by Kevin Powell. 
+The code for the homepage of this project was inspired by a YouTube tutorial for a tourism site, and the JavaScript and CSS code for the menu toggle was adapted from a tutorial by Kevin Powell.
